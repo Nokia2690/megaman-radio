@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Megaman Radio</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <section class="reproductor-musica">
+    <h1>Titulo</h1>
+    <p>Nombre</p>
+    <audio id="cancion">
+        <source src="" type="audio/mp3"/>
+    </audio>
+    <input type="range" value="0" id="progreso"/>
+    <div class="controles">
+        <button class="atras control">
+            <i class="bi bi-skip-backward-fill"></i>
+        </button>
+        <button class="boton-iniciar-pausar iconoControl">
+            <i class="bi bi-play-fill" id="iconoControl"></i>
+        </button>
+        <button class="siguiente control">
+            <i class="bi bi-skip-forward-fill"></i>
+        </button>
+    </div>
+    </section>
+    <script src="player.js"></script>
+</body>
+</html>

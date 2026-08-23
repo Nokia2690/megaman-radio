@@ -1,0 +1,1522 @@
+[
+    
+    {
+        "title": "Stage Select",
+        "src": "audio/mm1/01. Stage Select.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Cut Man",
+        "src": "audio/mm1/03. Cut Man Stage.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Guts Man",
+        "src": "audio/mm1/04. Guts Man Stage.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Ice Man",
+        "src": "audio/mm1/05. Ice Man Stage.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Bomb Man",
+        "src": "audio/mm1/06. Bomb Man Stage.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Fire Man",
+        "src": "audio/mm1/07. Fire Man Stage.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Elec Man",
+        "src": "audio/mm1/08. Elec Man Stage.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+     {
+        "title": "Boss",
+        "src": "audio/mm1/09. Boss.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm1/11. Dr. Wily Stage 1.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm1/12. Dr. Wily Stage 2.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm1/13. Dr. Wily Machine.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },
+    {
+        "title": "Ending",
+        "src": "audio/mm1/15. Ending.mp3",
+        "game": "Mega Man 1",
+        "artist": "Manami Matsumae"
+    },                                
+    {
+        "title": "Opening",
+        "src": "audio/mm2/1-01. Opening & Title.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm2/1-02. Stage Select.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "id": 20,
+        "title": "Metal Man",
+        "src": "audio/mm2/1-04. Metal Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Air Man",
+        "src": "audio/mm2/1-05. Air Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Bubble Man",
+        "src": "audio/mm2/1-06. Bubble Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Quick Man",
+        "src": "audio/mm2/1-07. Quick Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Crash Man",
+        "src": "audio/mm2/1-08. Crash Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Flash Man",
+        "src": "audio/mm2/1-09. Flash Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Heat Man",
+        "src": "audio/mm2/1-10. Heat Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Wood Man",
+        "src": "audio/mm2/1-11. Wood Man Stage.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm2/1-13. Get a Weapon.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Password",
+        "src": "audio/mm2/1-14. Password.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm2/1-16. Dr. Wily Stage 1.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm2/1-17. Dr. Wily Stage 2.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm2/1-18. Boss.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Ending",
+        "src": "audio/mm2/1-20. Ending.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm2/1-21. Staff Roll.mp3",
+        "game": "Mega Man 2",
+        "artist": "Takashi Tateishi"
+    },    
+    {
+        "title": "Opening & Title",
+        "src": "audio/mm3/01. Opening & Title.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },     
+    {
+        "title": "Stage Select",
+        "src": "audio/mm3/02. Stage Select.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Needle Man",
+        "src": "audio/mm3/04. Needle Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Magnet Man",
+        "src": "audio/mm3/05. Magnet Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Gemini Man",
+        "src": "audio/mm3/06. Gemini Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Hard Man",
+        "src": "audio/mm3/07. Hard Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Top Man",
+        "src": "audio/mm3/08. Top Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Snake Man",
+        "src": "audio/mm3/09. Snake Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Spark Man",
+        "src": "audio/mm3/10. Spark Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Shadow Man",
+        "src": "audio/mm3/11. Shadow Man Stage.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm3/12. Boss.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm3/14. Get a Weapon.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Password - Game Over",
+        "src": "audio/mm3/15. Password - Game Over.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm3/18. Dr. Wily Stage 1.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+
+        {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm3/19. Dr. Wily Stage 2.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Dr. Wily Stage 3",
+        "src": "audio/mm3/20. Dr. Wily Stage 3.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm3/21. Dr. Wily Machine.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Ending",
+        "src": "audio/mm3/23. Ending.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm3/24. Staff Roll.mp3",
+        "game": "Mega Man 3",
+        "artist": "Yasuaki Fujita, Harumi Fujita"
+    },
+    {
+        "title": "Opening 1",
+        "src": "audio/mm4/1-01. Opening 1.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Opening 2",
+        "src": "audio/mm4/1-02. Opening 2.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Title",
+        "src": "audio/mm4/1-03. Title.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm4/1-04. Stage Select.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Bright Man",
+        "src": "audio/mm4/1-06. Bright Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Toad Man",
+        "src": "audio/mm4/1-07. Toad Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Drill Man",
+        "src": "audio/mm4/1-08. Drill Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Pharaoh Man",
+        "src": "audio/mm4/1-09. Pharoah Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Ring Man",
+        "src": "audio/mm4/1-10. Ring Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+        {
+        "title": "Dust Man",
+        "src": "audio/mm4/1-11. Dust Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+        {
+        "title": "Dive Man",
+        "src": "audio/mm4/1-12. Dive Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+        {
+        "title": "Skull Man",
+        "src": "audio/mm4/1-13. Skull Man Stage.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm4/1-14. Boss.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+        {
+        "title": "Get a Weapon",
+        "src": "audio/mm4/1-16. Get a Weapon.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },                        
+        {
+        "title": "Password",
+        "src": "audio/mm4/1-18. Password.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+        {
+        "title": "Dr. Cossack Stage 1",
+        "src": "audio/mm4/1-21. Dr. Cossack Stage 1.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Dr. Cossack Stage 2",
+        "src": "audio/mm4/1-22. Dr. Cossack Stage 2.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm4/1-24. Dr. Wily Stage 1.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm4/1-25. Dr. Wily Stage 2.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm4/1-26. Dr. Wily Machine.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },
+    {
+        "title": "Ending",
+        "src": "audio/mm4/1-28. Ending.mp3",
+        "game": "Mega Man 4",
+        "artist": "Yasuaki Fujita, Minae Fujii"
+    },              
+    {
+        "title": "Opening",
+        "src": "audio/mm5/01. Opening.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Title",
+        "src": "audio/mm5/02. Title.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm5/03. Stage Select.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },                  
+    {
+        "title": "Gravity Man",
+        "src": "audio/mm5/05. Gravity Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Wave Man",
+        "src": "audio/mm5/06. Wave Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },        
+    {
+        "title": "Stone Man",
+        "src": "audio/mm5/07. Stone Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },    
+    {
+        "title": "Gyro Man",
+        "src": "audio/mm5/08. Gyro Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Star Man",
+        "src": "audio/mm5/09. Star Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Charge Man",
+        "src": "audio/mm5/10. Charge Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Napalm Man",
+        "src": "audio/mm5/11. Napalm Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Crystal Man",
+        "src": "audio/mm5/12. Crystal Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm5/13. Boss.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm5/15. Get a Weapon.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Password",
+        "src": "audio/mm5/16. Password.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Dark Man Stage",
+        "src": "audio/mm5/18. Dark Man Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Dr. Wily Stage",
+        "src": "audio/mm5/21. Dr. Wily Stage.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm5/22. Dr. Wily Machine.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm5/25. Staff Roll.mp3",
+        "game": "Mega Man 5",
+        "artist": "Mari Yamaguchi"
+    },
+    {
+        "title": "Opening (Overseas Ver.)",
+        "src": "audio/mm6/02. Opening (Overseas Ver.).mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Opening (Japanese Ver.)",
+        "src": "audio/mm6/03. Opening (Japanese Ver.).mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    }, 
+    {
+        "title": "Title",
+        "src": "audio/mm6/04. Title.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm6/05. Stage Select.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Blizzard Man",
+        "src": "audio/mm6/07. Blizzard Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Centaur Man",
+        "src": "audio/mm6/08. Centaur Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Flame Man",
+        "src": "audio/mm6/09. Flame Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Knight Man",
+        "src": "audio/mm6/10. Knight Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Plant Man",
+        "src": "audio/mm6/11. Plant Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Tomahawk Man",
+        "src": "audio/mm6/12. Tomahawk Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Wind Man",
+        "src": "audio/mm6/13. Wind Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Yamato Man",
+        "src": "audio/mm6/14. Yamato Man Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm6/15. Boss.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm6/17. Get a Weapon.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Password",
+        "src": "audio/mm6/18. Password.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Mr X Stage",
+        "src": "audio/mm6/20. Mr. X Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Dr. Wily Stage",
+        "src": "audio/mm6/22. Dr. Wily Stage.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm6/23. Dr. Wily Machine.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Ending",
+        "src": "audio/mm6/25. Ending.mp3",
+        "game": "Mega Man 6",
+        "artist": "Yuko Takehara"
+    },
+    {
+        "title": "Opening 1",
+        "src": "audio/mm7/02. Opening 1.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Opening 2",
+        "src": "audio/mm7/03. Opening 2.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Opening Stage",
+        "src": "audio/mm7/05. Opening Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm7/07. Stage Select.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Freeze Man",
+        "src": "audio/mm7/09. Freeze Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Junk Man",
+        "src": "audio/mm7/10. Junk Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Burst Man",
+        "src": "audio/mm7/11. Burst Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Cloud Man",
+        "src": "audio/mm7/12. Cloud Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Museum",
+        "src": "audio/mm7/13. Museum.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Spring Man",
+        "src": "audio/mm7/14. Spring Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Slash Man",
+        "src": "audio/mm7/15. Slash Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Shade Man",
+        "src": "audio/mm7/16. Shade Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Shade Man (Secret)",
+        "src": "audio/mm7/18. Shade Man Stage (Secret) [from Ghosts 'n Goblins].mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Turbo Man",
+        "src": "audio/mm7/19. Turbo Man Stage.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm7/20. Boss.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm7/22. Get a Weapon.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Dr: Light's Lab",
+        "src": "audio/mm7/23. Dr. Light's Lab.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Password",
+        "src": "audio/mm7/24. Password.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Shop",
+        "src": "audio/mm7/25. Shop.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Lab Attack",
+        "src": "audio/mm7/27. Lab Attack.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm7/29. Dr. Wily Stage 1.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm7/30. Dr. Wily Stage Boss.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm7/31. Dr. Wily Stage 2.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Dr. Wily Stage 3",
+        "src": "audio/mm7/32. Dr. Wily Stage 3.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Dr. Wily Stage 4",
+        "src": "audio/mm7/33. Dr. Wily Stage 4.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm7/36. Staff Roll.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Unused",
+        "src": "audio/mm7/37. Unused.mp3",
+        "game": "Mega Man 7",
+        "artist": "Toshihiko Horiyama, Yuko Takehara, Makoto Tomozawa"
+    },
+    {
+        "title": "Electrical Communication",
+        "src": "audio/mm8/02. Electrical Communication.mp3",
+        "game": "Mega Man 8",
+        "artist": "GANASIA"
+    },
+    {
+        "title": "Opening",
+        "src": "audio/mm8/03. Mega Man 8 Opening Theme.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Title",
+        "src": "audio/mm8/04. Title.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Towards Earth",
+        "src": "audio/mm8/05. Towards Earth (Opening 1).mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Versus Bass",
+        "src": "audio/mm8/06. Versus Forte (Opening 2).mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Opening Stage 1",
+        "src": "audio/mm8/07. Opening Stage 1.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Opening Stage 2",
+        "src": "audio/mm8/08. Opening Stage 2.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Sub-Boss",
+        "src": "audio/mm8/09. Sub-Boss.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm8/10. Stage Select.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Frost Man",
+        "src": "audio/mm8/12. Frost Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Tengu Man (PS1)",
+        "src": "audio/mm8/14. Tengu Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Grenade Man",
+        "src": "audio/mm8/15. Grenade Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Duo",
+        "src": "audio/mm8/18. Duo.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Sword Man",
+        "src": "audio/mm8/24. Sword Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Aqua Man (PS1)",
+        "src": "audio/mm8/25. Aqua Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },{
+        "title": "Astro Man",
+        "src": "audio/mm8/26. Astro Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Search Man",
+        "src": "audio/mm8/27. Search Man Stage.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Boss Appears",
+        "src": "audio/mm8/28. Boss Appears.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm8/29. Boss.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm8/31. Get A Weapon.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr: Light's Lab",
+        "src": "audio/mm8/32. Dr. Light's Lab.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm8/34. Dr. Wily Stage 1.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm8/35. Dr. Wily Stage 2.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Stage 3",
+        "src": "audio/mm8/36. Dr. Wily Stage 3.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Bass",
+        "src": "audio/mm8/37. Bass.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Stage 4",
+        "src": "audio/mm8/38. Dr. Wily Stage 4.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Appears",
+        "src": "audio/mm8/39. Dr. Wily Appears.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm8/40. Dr. Wily Machine.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Dr. Wily Capsule",
+        "src": "audio/mm8/42. Dr. Wily Capsule.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm8/46. Staff Roll.mp3",
+        "game": "Mega Man 8",
+        "artist": "Shusaku Uchiyama"
+    },    
+    {
+        "title": "Opening 1",
+        "src": "audio/mm9/01 - Opening 1.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Opening 2",
+        "src": "audio/mm9/02 - Opening 2.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Opening 3",
+        "src": "audio/mm9/03 - Opening 3.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Title",
+        "src": "audio/mm9/04 - Title.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm9/06 - Stage Select.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Concrete Man",
+        "src": "audio/mm9/08 - Concrete Jungle (Concrete Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Tornado Man",
+        "src": "audio/mm9/09 - Thunder Tornado (Tornado Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Splash Woman",
+        "src": "audio/mm9/10 - Splash Blue (Splash Woman Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Plug Man",
+        "src": "audio/mm9/11 - Plug Electric (Plug Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Jewel Man",
+        "src": "audio/mm9/12 - Jewel Temptation (Jewel Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Hornet Man",
+        "src": "audio/mm9/13 - Hornet Dance (Hornet Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Magma Man",
+        "src": "audio/mm9/14 - Magma Burning (Magma Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Galaxy Man",
+        "src": "audio/mm9/15 - Galaxy Fantasy (Galaxy Man Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm9/16 - Boss.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Shop",
+        "src": "audio/mm9/19 - Shop.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Rush Jet",
+        "src": "audio/mm9/20 - Rush Jet.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Suspense",
+        "src": "audio/mm9/21 - Suspense.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm9/24 - Flash in the Dark (Dr. Wily Stage 1).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 2",
+        "src": "audio/mm9/25 - We're the Robots (Dr. Wily Stage 2).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 3",
+        "src": "audio/mm9/26 - Strange World (Dr. Wily Stage 3).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 4",
+        "src": "audio/mm9/27 - Castle of Evil (Dr. Wily Stage 4).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm9/28 - Wily Machine.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Ending",
+        "src": "audio/mm9/29 - Ending.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm9/30 - Staff Roll.mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Special Stage",
+        "src": "audio/mm9/31 - Overdrive Scramble (Special Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Endless Stage",
+        "src": "audio/mm9/32 - Maze of Death (Endless Stage).mp3",
+        "game": "Mega Man 9",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Usual Day",
+        "src": "audio/mm10/01 Usual Day.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Future World",
+        "src": "audio/mm10/02 Future World.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Suspicion",
+        "src": "audio/mm10/03 Suspicion.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Go Together",
+        "src": "audio/mm10/04 Go Together.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Title",
+        "src": "audio/mm10/05 Title.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Menu",
+        "src": "audio/mm10/06 Menu.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm10/07 Stage Select.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Blade Man",
+        "src": "audio/mm10/09 King Of Blades (Blade Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Pump Man",
+        "src": "audio/mm10/10 Polluted Pump (Pump Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Commando Man",
+        "src": "audio/mm10/11 Desert Commando (Commando Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Chill Man",
+        "src": "audio/mm10/12 Absolute Chill (Chill Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Sheep Man",
+        "src": "audio/mm10/13 Cybersheep's Dream (Sheep Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Strike Man",
+        "src": "audio/mm10/14 Fireball Strike (Strike Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Nitro Man",
+        "src": "audio/mm10/15 Nitro Rider (Nitro Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Solar Man",
+        "src": "audio/mm10/16 Solar Inferno (Solar Man Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm10/17 Boss.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm10/19 Get A Weapon.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Shop (Rock)",
+        "src": "audio/mm10/20 Shop -Rock-.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Shop (Proto Man)",
+        "src": "audio/mm10/21 Shop -Blues-.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Shop (Bass)",
+        "src": "audio/mm10/22 Shop -Forte-.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Crisis",
+        "src": "audio/mm10/23 Crisis.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Evil Wily",
+        "src": "audio/mm10/24 Evil Wily.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "For You",
+        "src": "audio/mm10/25 For You -Roll's Theme-.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 1 (Intro)",
+        "src": "audio/mm10/27 Silent Rain (Dr. Wily Stage 1).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage Boss",
+        "src": "audio/mm10/28 Dr. Wily Stage Boss.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 1",
+        "src": "audio/mm10/29 Abandoned Memory (Dr. Wily Stage 1).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 2",    
+        "src": "audio/mm10/30 Against The Pressure (Dr. Wily Stage 2).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 3",
+        "src": "audio/mm10/31 No Turning Back (Dr. Wily Stage 3).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 4",
+        "src": "audio/mm10/32 Stairway To Darkness (Dr. Wily Stage 4).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm10/33 Dr. Wily Machine.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Stage 5",
+        "src": "audio/mm10/35 Deep In Space (Dr. Wily Stage 5).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Dr. Wily Capsule",
+        "src": "audio/mm10/36 Dr. Wily Capsule.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Staff Roll",
+        "src": "audio/mm10/39 Staff Roll.mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Endless Stage",
+        "src": "audio/mm10/41 Endless Struggle (Endless Stage).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Special Stage 1",
+        "src": "audio/mm10/42 Heart Of Enker (Special Stage 1).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Special Stage 2",
+        "src": "audio/mm10/43 Get The Punk Out (Special Stage 2).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Special Stage 3",
+        "src": "audio/mm10/44 Farewell To Ballade (Special Stage 3).mp3",
+        "game": "Mega Man 10",
+        "artist": "Ippo Yamada, Ryo Kawakami, Yu Shimoda, and Hiroki Isogai"
+    },
+    {
+        "title": "Prologue",
+        "src": "audio/mm11/1-01 Prologue.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Title",
+        "src": "audio/mm11/1-02 Title.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Another Day In The Lab",
+        "src": "audio/mm11/1-03 Another Day In The Lab.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Evil Machinations",
+        "src": "audio/mm11/1-04 Evil Machinations.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "The Courage To Fight",
+        "src": "audio/mm11/1-05 The Courage To Fight.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Stage Select",
+        "src": "audio/mm11/1-06 Stage Select.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Block Man",
+        "src": "audio/mm11/1-08 Block Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Acid Man",
+        "src": "audio/mm11/1-09 Acid Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Impact Man",
+        "src": "audio/mm11/1-10 Pile Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Bounce Man",
+        "src": "audio/mm11/1-11 Rubber Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Fuse Man",
+        "src": "audio/mm11/1-12 Fuse Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Tundra Man",
+        "src": "audio/mm11/1-13 Tundra Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Torch Man",
+        "src": "audio/mm11/1-14 Torch Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Blast Man",
+        "src": "audio/mm11/1-15 Blast Man Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Boss",
+        "src": "audio/mm11/1-16 Boss.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Get a Weapon",
+        "src": "audio/mm11/1-18 Get A Weapon.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Shop",
+        "src": "audio/mm11/1-19 Shop.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Regretful Memories",
+        "src": "audio/mm11/1-20 Regretful Memories.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Dr. Wily Stage Map",
+        "src": "audio/mm11/1-22 Dr. Wily Stage Map.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Dr. Wily Stage",
+        "src": "audio/mm11/1-23 Dr. Wily Stage.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Dr. Wily Stage Boss",
+        "src": "audio/mm11/1-24 Dr. Wily Stage Boss.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Dr. Wily Machine",
+        "src": "audio/mm11/1-25 Dr. Wily Machine.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Dr. Wily Capsule",
+        "src": "audio/mm11/1-27 Last Battle.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Wily's Last Resort",
+        "src": "audio/mm11/1-28 Wily's Last Resort.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Staff Roll 1",
+        "src": "audio/mm11/1-29 Staff Roll 1.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Staff Roll 2",
+        "src": "audio/mm11/1-30 Staff Roll 2.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    },
+    {
+        "title": "Menu",
+        "src": "audio/mm11/1-31 Game Menu.mp3",
+        "game": "Mega Man 11",
+        "artist": "Marika Suzuki"
+    }
+]
