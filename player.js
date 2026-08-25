@@ -1,3 +1,4 @@
+const R2_url = "https://pub-3d52a5c211294455ba197b8d4a6c5a1b.r2.dev/"
 
 const titulo = document.querySelector('.reproductor-musica h1');
 const nombre = document.querySelector('.reproductor-musica p');
@@ -24,7 +25,7 @@ async function cargarCanciones() {
 function actualizarCancion(){
     titulo.textContent = canciones[indiceCancionActual].title;
     nombre.textContent = canciones[indiceCancionActual].artist;
-    cancion.src = canciones[indiceCancionActual].src;
+    cancion.src = new URL(canciones[indiceCancionActual].src.replace(/^audio\//, ''), R2_url).href;
     cancion.addEventListener('loadeddata', function(){});
 }
 
