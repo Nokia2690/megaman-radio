@@ -8,16 +8,23 @@ const cancion = document.getElementById('cancion');
 
 const iconoControl = document.getElementById('iconoControl');
 const botonReproducir = document.querySelector('.controles button.boton-iniciar-pausar');
+const volumeSlider = document.getElementById('volumeSlider');
 
 const botonAtras = document.querySelector('.controles button.atras');
 const botonAdelante = document.querySelector('.controles button.siguiente');
 
 let canciones = [];
+let historialCanciones = [];
 let indiceCancionActual = 0;
 
 async function cargarCanciones() {
-    const response = await fetch("./tracks.json");
-    canciones = await response.json();
+    const response1 = await fetch("./tracks-classic.json");
+    const response2 = await fetch("./tracks-x.json");
+
+    const classic = await response1.json();
+    const x = await response2.json();
+
+    canciones = [...classic, ...x];
 
     actualizarCancion();
 }
@@ -48,8 +55,8 @@ function reproducirCancion(){
 
 function pausarCancion() {
     cancion.pause();
-    iconoControl.classList.remove('bi-play-fill');
-    iconoControl.classList.add('bi-pause-fill');    
+        iconoControl.classList.remove('bi-pause-fill'); 
+        iconoControl.classList.add('bi-play-fill');
 }
 
 cancion.addEventListener('timeupdate', function(){
@@ -63,21 +70,29 @@ progreso.addEventListener('input', function(){
 })
 
 botonAdelante.addEventListener('click', function(){
+    historialCanciones.push(indiceCancionActual);
     indiceCancionActual = Math.floor(Math.random() * canciones.length);
     actualizarCancion();
     reproducirCancion();
 })
 
 botonAtras.addEventListener('click', function(){
-    indiceCancionActual = (indiceCancionActual - 1) % canciones.length;
+    if (historialCanciones.length > 0){
+    indiceCancionActual = historialCanciones.pop();
+    actualizarCancion();
+    reproducirCancion();
+    }
+})
+
+cancion.addEventListener('ended', function(){
+    indiceCancionActual = Math.floor(Math.random() * canciones.length);
     actualizarCancion();
     reproducirCancion();
 })
 
-cancion.addEventListener('ended', function(){
-    indiceCancionActual = (indiceCancionActual + 1) % canciones.length;
-    actualizarCancion();
-    reproducirCancion();
+cancion.volume = volumeSlider.value / 100;
+volumeSlider.addEventListener('input', () => {
+    cancion.volume = volumeSlider.value / 100;
 })
 
 cargarCanciones();
