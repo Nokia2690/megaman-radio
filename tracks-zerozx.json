@@ -1,0 +1,919 @@
+[
+    {
+        "title": "The Ruins Of Lab",
+        "src": "audio/mmz/1-03 The Ruins of Lab.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Captive Legend",
+        "src": "audio/mmz/1-04 Captive Legend.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Cyberelf",
+        "src": "audio/mmz/1-05 Cyberelf.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Theme of ZERO",
+        "src": "audio/mmz/1-06. Theme of ZERO (From Rockman X).mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Intermission",
+        "src": "audio/mmz/1-07 Intermission.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Resistance",
+        "src": "audio/mmz/1-08 Resistance.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "EXPRESS UG",
+        "src": "audio/mmz/1-09 EXPRESS UG.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Deadzone",
+        "src": "audio/mmz/1-10 Deadzone.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Scorching Desert",
+        "src": "audio/mmz/1-11 Scorching Desert.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Hell Plant",
+        "src": "audio/mmz/1-12 Hell Plant.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Infiltration",
+        "src": "audio/mmz/1-13 Infiltration.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Emergency",
+        "src": "audio/mmz/1-14 Emergency.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Guarder Room",
+        "src": "audio/mmz/1-15 Guarder Room.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Crash",
+        "src": "audio/mmz/1-16 Crash.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Mission Report",
+        "src": "audio/mmz/1-17 Result of Mission.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Enemy Hall",
+        "src": "audio/mmz/1-18 Enemy Hall.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Neo Arcadia",
+        "src": "audio/mmz/1-19 Neo Arcadia.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "X, The Legend",
+        "src": "audio/mmz/1-20 X, The Legend.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Fake",
+        "src": "audio/mmz/1-21 Fake.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+
+    {
+        "title": "The End Of Legend",
+        "src": "audio/mmz/1-22 The End of Legend.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "For Endless Fight",
+        "src": "audio/mmz/1-23 For Endless Fight.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Area Of ZERO",
+        "src": "audio/mmz/1-25 Area of ZERO ~ Main Theme of ZERO.mp3",
+        "game": "Mega Man Zero",
+        "artist": "Ippo Yamada"
+    },
+    {
+        "title": "Departure",
+        "src": "audio/mmz2/2-03 Departure.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Crash II",
+        "src": "audio/mmz2/2-04 Crash II.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Resistance Force",
+        "src": "audio/mmz2/2-06 Resistance Force.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Momentary Peace",
+        "src": "audio/mmz2/2-07 Momentary Peace.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Lab",
+        "src": "audio/mmz2/2-08 Labo.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Instructions",
+        "src": "audio/mmz2/2-09 Instructions.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Ice Brain",
+        "src": "audio/mmz2/2-10 Ice Brain.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Platinum",
+        "src": "audio/mmz2/2-11 Platinum.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Gravity",
+        "src": "audio/mmz2/2-12 Gravity.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Sand Triangle",
+        "src": "audio/mmz2/2-13 Sand Triangle.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Inminent Storm",
+        "src": "audio/mmz2/2-14 Imminent Storm.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Neo Arcadia II",
+        "src": "audio/mmz2/2-16 Neo Arcadia II.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Power Bom",
+        "src": "audio/mmz2/2-17 Power Bom.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Uneasy",
+        "src": "audio/mmz2/2-18 Uneasy.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Spreading Darkness",
+        "src": "audio/mmz2/2-19 Spreading Darkness.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Combustion",
+        "src": "audio/mmz2/2-20 Combustion.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Cool Water",
+        "src": "audio/mmz2/2-21 Cool Water.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Passionate",
+        "src": "audio/mmz2/2-22 Passionate.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Flash Back",
+        "src": "audio/mmz2/2-23 Flash Back.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Strong Will",
+        "src": "audio/mmz2/2-25 Strong Will.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Mission Report",
+        "src": "audio/mmz2/2-26 Result of Mission II.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Melt Down",
+        "src": "audio/mmz2/2-27 Melt Down.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Cool Hearted Fellow",
+        "src": "audio/mmz2/2-28 Cool Hearted Fellow.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "The Cloudy Stone",
+        "src": "audio/mmz2/2-29 The Cloudy Stone.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Harpuia",
+        "src": "audio/mmz2/.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Silver Wolf",
+        "src": "audio/mmz2/2-32 Silver Wolf - Yggr-drasill -.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Darkelf",
+        "src": "audio/mmz2/2-33 Darkelf.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Supreme Ruler",
+        "src": "audio/mmz2/2-34 Supreme Ruler.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "The Last - The Wish Punished",
+        "src": "audio/mmz2/2-35 The Last - The Wish Punished -.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "In Mother's Light",
+        "src": "audio/mmz2/2-36 In Mother's Light.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Awakening Will",
+        "src": "audio/mmz2/2-37 Awakening Will.mp3",
+        "game": "Mega Man Zero 2",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Neo Arcadia March",
+        "src": "audio/mmz3/3-02 Neo Arcadia March.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Forbidden Ark",
+        "src": "audio/mmz3/3-03 Forbidden Ark.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Break Out",
+        "src": "audio/mmz3/3-04 Break Out.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Darkness Over World",
+        "src": "audio/mmz3/3-05. Darkness Over World.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Exiled One -Omega-",
+        "src": "audio/mmz3/3-06 Exiled One -Omega-.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Omega Battle",
+        "src": "audio/mmz3/3-07 Omega Battle.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Curse of Weil",
+        "src": "audio/mmz3/3-08 Curse of Bile.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Prismatic",
+        "src": "audio/mmz3/3-09 Prismatic.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Visor Eyes",
+        "src": "audio/mmz3/3-10 Visor Eyes.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Volcano",
+        "src": "audio/mmz3/3-11 Volcano.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Water City",
+        "src": "audio/mmz3/3-12 Water City.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Reborn Mechanics",
+        "src": "audio/mmz3/3-13 Reborn Mechanics.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Old Life Space",
+        "src": "audio/mmz3/3-14 Old Life Space.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+
+    {
+        "title": "Creer And Preer",
+        "src": "audio/mmz3/3-15. Creer And Prier.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Crash III",
+        "src": "audio/mmz3/3-16 Crash III.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Final Countdown",
+        "src": "audio/mmz3/3-18 Final Count Down.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Omega Missile",
+        "src": "audio/mmz3/.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Darkelf",
+        "src": "audio/mmz3/3-20 Darkelf.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "For Endless Fight III",
+        "src": "audio/mmz3/3-21 For Endless Fight III.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Sand Triangle II",
+        "src": "audio/mmz3/3-22 Sand Triangle II.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Infiltration II",
+        "src": "audio/mmz3/3-23 Infiltration II.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Neo Arcadia III",
+        "src": "audio/mmz3/3-24 Neo Arcadia III.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Cold Smile",
+        "src": "audio/mmz3/3-25 Cold Smile.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Trail On Powdery Snow",
+        "src": "audio/mmz3/3-26 Trail on Powdery Snow.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Submerged Memory",
+        "src": "audio/mmz3/3-27 Submerged Memory.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "High Speed Lift",
+        "src": "audio/mmz3/3-28 High-Speed Lift.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Scrapped Beat",
+        "src": "audio/mmz3/3-30 Scrapped Beat.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Hell's Gate Open",
+        "src": "audio/mmz3/3-32 Hell's Gate Open.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Pandemonium",
+        "src": "audio/mmz3/3-33 Pandemonium.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Judgement Day",
+        "src": "audio/mmz3/3-34 Judgement Day.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Return to Zero",
+        "src": "audio/mmz3/.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Apocalypse Now",
+        "src": "audio/mmz3/3-36 Apocalypse Now.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Cannon Ball",
+        "src": "audio/mmz3/3-37 Cannon Ball.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "I, 0 Your Fellow",
+        "src": "audio/mmz3/3-38 I, 0 Your Fellow.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Everlasting Red",
+        "src": "audio/mmz3/3-39 Everlasting Red.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Lab -System-a-Ciel-",
+        "src": "audio/mmz3/3-40 Labo - System-a-Ciel -.mp3",
+        "game": "Mega Man Zero 3",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Tsutomu Kurihara"
+    },
+    {
+        "title": "Prologue -Return to Zero II-",
+        "src": "audio/mmz4/4-02 -Prologue- Return to Zero II.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Caravan -Hope For Freedom-",
+        "src": "audio/mmz4/4-03 Caravan -Hope for Freedom-.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Nothing Beats",
+        "src": "audio/mmz4/4-04 Nothing Beats.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Holy Land",
+        "src": "audio/mmz4/4-05 Holy Land.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Elves Dance",
+        "src": "audio/mmz4/4-06 Elves Dance.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Esperanto",
+        "src": "audio/mmz4/4-07 Esperanto.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Fragile Border",
+        "src": "audio/mmz4/4-08 Fragile Border.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "On The Edge",
+        "src": "audio/mmz4/4-09 On the Edge.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Kraft",
+        "src": "audio/mmz4/4-10 Kraft.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Max Heat",
+        "src": "audio/mmz4/4-12 Max Heat.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Deep Blue",
+        "src": "audio/mmz4/4-13 Deep Blue.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+
+    {
+        "title": "Celestial Gardens",
+        "src": "audio/mmz4/4-14 Celestial Gardens.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Queen Of The Hurt",
+        "src": "audio/mmz4/4-15 Queen of the Hurt.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Showdown",
+        "src": "audio/mmz4/4-16 Showdown.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Cage Of Tyrant",
+        "src": "audio/mmz4/4-17 Cage of Tyrant.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Exodus",
+        "src": "audio/mmz4/4-18 Exodus.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Blaze Down",
+        "src": "audio/mmz4/4-19 Blaze Down.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Sleeping Beast",
+        "src": "audio/mmz4/4-20 Sleeping Beast.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+
+    {
+        "title": "Magnetic Rumble",
+        "src": "audio/mmz4/4-21 Magnetic Rumble.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "BlackHeart Beat",
+        "src": "audio/mmz4/4-22 Blackheart Beat.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Crash IV",
+        "src": "audio/mmz4/4-23 Crash IV.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Straight Ahead",
+        "src": "audio/mmz4/4-24 Straight Ahead.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Power Field",
+        "src": "audio/mmz4/4-25 Power Field.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Rust And Dust",
+        "src": "audio/mmz4/4-26 Rust and Dust.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+
+    {
+        "title": "Crossover Station",
+        "src": "audio/mmz4/4-27 Crossover Station.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Cyber Space",
+        "src": "audio/mmz4/4-28 Cyber Space.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Ragnarok",
+        "src": "audio/mmz4/4-29 Ragnarok.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Fate (Theme of Weil)",
+        "src": "audio/mmz4/4-30 Fate- Theme Of Vile -.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+
+    {
+        "title": "Falling Down",
+        "src": "audio/mmz4/4-31 Falling Down.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },{
+        "title": "Ciel d'aube",
+        "src": "audio/mmz4/4-32 Ciel d'aube.mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+
+    {
+        "title": "Promise (Next New World)",
+        "src": "audio/mmz4/4-33 Promise - Next New World - ( Overseas Version ).mp3",
+        "game": "Mega Man Zero 4",
+        "artist": "Ippo Yamada, Masaki Suzuki, Luna Umegaki, Shinichi Itakura"
+    },
+    {
+        "title": "Awake",
+        "src": "audio/mmzx/5-01. Awake.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Fragments",
+        "src": "audio/mmzx/5-02. Fragments.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Green Grass Gradiation (Area A)",
+        "src": "audio/mmzx/5-03. Green Grass Gradation.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "En-trance Code",
+        "src": "audio/mmzx/5-04. En-trance Code.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Brilliant Show Window (Area C)",
+        "src": "audio/mmzx/5-05. Brilliant Show Window.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Cinq Ville - c`est notre espoir - (Area D)",
+        "src": "audio/mmzx/5-06. Cinq Ville - c`est notre espoir -.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Wonder Panorama (Area F)",
+        "src": "audio/mmzx/5-07. Wonder Panorama.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Industrialism (Area E)",
+        "src": "audio/mmzx/5-08. Industrialism.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Sky High - Grand Nuage - (Area X)",
+        "src": "audio/mmzx/5-09. Sky High - Grand Nuage -.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Metallic Soul",
+        "src": "audio/mmzx/5-10. Metallic Soul.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Danger Attraction (Area H)",
+        "src": "audio/mmzx/5-11. Danger Attraction.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Misty Rain (Area I)",
+        "src": "audio/mmzx/5-12. Misty Rain.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+
+    {
+        "title": "Ultramarine Meditation (Area J)",
+        "src": "audio/mmzx/5-13. Ultramarine Meditation.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Babel Tower",
+        "src": "audio/mmzx/5-14. Babel Tower.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Fate - deep-seated grudge -",
+        "src": "audio/mmzx/5-15. Fate - deep-seated grudge -.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Mountain Rider (Area B)",
+        "src": "audio/mmzx/5-17. Mountain Rider.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Trinity",
+        "src": "audio/mmzx/5-18. Trinity.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Ogre Claw (Area G)",
+        "src": "audio/mmzx/5-19. Ogre Claw.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+
+    {
+        "title": "Dance-macabre",
+        "src": "audio/mmzx/5-20. Dance-macabre.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Rockin' On",
+        "src": "audio/mmzx/5-21. Rockin' On.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "High-Press Energy",
+        "src": "audio/mmzx/5-22. High-press Energy.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Gaunlet",
+        "src": "audio/mmzx/5-23. Gauntlet.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Onslaught",
+        "src": "audio/mmzx/5-24. Onslaught.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+
+    {
+        "title": "Trap Factory",
+        "src": "audio/mmzx/5-25. Trap Factory.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Doomsday Device",
+        "src": "audio/mmzx/5-26. Doomsday Device.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Black Burn",
+        "src": "audio/mmzx/5-27. Black Burn.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Phalanx",
+        "src": "audio/mmzx/5-28. Phalanx.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Snake Eyes",
+        "src": "audio/mmzx/5-29. Snake Eyes.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+
+    {
+        "title": "Palida Mors",
+        "src": "audio/mmzx/5-30. Pallida Mors.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Dream Weaver",
+        "src": "audio/mmzx/5-31. Dream Weaver.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    },
+    {
+        "title": "Cannon Ball -Hard Revenge-",
+        "src": "audio/mmzx/5-32. Cannon Ball.mp3",
+        "game": "Mega Man ZX",
+        "artist": "Ippo Yamada, Masaki Suzuki, Ryo Kawakami"
+    }
+
+]
